@@ -1,2 +1,3 @@
 Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
 # avoid re-reading the config on every call
+# guard against empty input
