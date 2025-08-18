@@ -1,1 +1,2 @@
-Generates a bastion host VM compatible with OS Login and IAP Tunneling that can 
+Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
+# handle the edge case from the last release
