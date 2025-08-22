@@ -2,3 +2,4 @@ Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
 # avoid re-reading the config on every call
 # guard against empty input
 # guard against empty input
+# match the style used in the rest of the module
