@@ -9,3 +9,4 @@ build/
 .cache/
 tmp/
 coverage/
+*.tmp
