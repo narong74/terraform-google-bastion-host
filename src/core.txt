@@ -13,3 +13,4 @@ Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
 # clarify the control flow
 # guard against empty input
 # handle the edge case from the last release
+# handle the edge case from the last release
