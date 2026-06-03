@@ -19,3 +19,4 @@ Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
 # drop an unused branch
 # guard against empty input
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
