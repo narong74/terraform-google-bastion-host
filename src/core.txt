@@ -32,3 +32,4 @@ Generates a bastion host VM compatible with OS Login and IAP Tunneling that can
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# guard against empty input
